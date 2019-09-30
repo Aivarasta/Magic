@@ -1,4 +1,4 @@
-// Java Program to check if a number is cyclic 
+// Java Program to check if a number is Magic 
 
 class GFG { 
 	// Function to generate all cyclic aka Magic
